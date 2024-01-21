@@ -21,3 +21,5 @@ Note:
 This project is a starting point for me, and I plan to enhance and refine it as I learn more.
 
 Feel free to explore the source code, offer suggestions, or share your experiences. I'm eager to grow and improve this trainer as I continue learning. Happy gaming, and thank you for being part of this exciting journey with me!
+
+![image](https://github.com/Yass512/Simple-Trainer-Assault-Cube/assets/155034883/efcecc4a-a80d-4105-a1fb-d905587baf7a)

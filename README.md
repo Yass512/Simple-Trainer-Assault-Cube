@@ -3,15 +3,15 @@ Hello! I'm excited to share my very first Assault Cube Trainer DLL. This project
 
 Features:
 
-Infinite Ammo
+1.Infinite Ammo
 
-Infinite Health
+2.Infinite Health
 
-No Recoil
+3.No Recoil
 
-Teleport Hack
+4.Teleport Hack
 
-Changing Kill Count to 888
+5.Changing Kill Count to 888
 
 Usage:
 
